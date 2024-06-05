@@ -4,8 +4,8 @@ const sname = document.getElementById("name")
 
 
 
-title.innerText = "Dear best friend,";
+title.innerText = "Dear SHUB,";
 
 desc.innerText = "Happy birthday!! I hope your day is filled with lots of love and laughter! May all of your birthday wishes come true.";
 
-sname.innerText = "Parth";
+sname.innerText = "Ritika";
